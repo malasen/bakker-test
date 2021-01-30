@@ -29,7 +29,7 @@ include_once 'includes/dp.php'
 
               if( $resultCheck > 0) {
                   while( $row = mysqli_fetch_assoc($results)){
-                      echo $row['First_Name']
+                      echo $row['First_Name', 'Last_Name'];
                   }
               }
             ?>
