@@ -1,5 +1,5 @@
 <?php
-   include_once 'inc.php';
+   include_once 'includes/inc.php';
 ?>
 
 <!DOCTYPE html>
